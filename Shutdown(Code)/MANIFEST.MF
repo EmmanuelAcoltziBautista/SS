@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Created-By: Emmanuel Acoltzi Bautista
+Main-Class: Shutdown
+X-COMMENT: System that shuts down the computer
